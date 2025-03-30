@@ -71,7 +71,5 @@ Screenshot: Attached in the folder
 
 
 
-Regards,
-Arjun Mohanty
-Email: arjunmohanty003@gmail.com
+
 
