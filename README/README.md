@@ -21,7 +21,7 @@ Backend Setup:
 
 2. Ensure you have Java 17+ and Maven dependencies installed.
 
-3. Then simply click on run and the backend runs on      http://localhost:8080.
+3. Then simply click on run and the backend runs on  http://localhost:8080.
 
 Frontend Setup:
 1. Navigate to the Frontend Directory
@@ -67,7 +67,8 @@ Screenshot: Attached in the folder
 
 
 
-
+Name: Arjun Mohanty
+Email:arjunmohanty003@gmail.com
 
 
 
